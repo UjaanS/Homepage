@@ -48,7 +48,7 @@ function Services() {
       <h2>Our Services</h2>
       <div className="service-list">
         <div className="service-item">
-          <h3>Mental Health Support</h3>
+          <h3><a href="https://character.ai/chat/Hpk0GozjACb3mtHeAaAMb0r9pcJGbzF317I_Ux_ALOA">Mental Health Support</a></h3>
           <p>A farmers friend, companion, and personalized AI therapist</p>
         </div>
         <div className="service-item">
