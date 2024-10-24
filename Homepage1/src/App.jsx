@@ -52,7 +52,7 @@ function Services() {
           <p>A farmers friend, companion, and personalized AI therapist</p>
         </div>
         <div className="service-item">
-          <h3>Farmer Support</h3>
+          <h3><a href="https://lime-nicholle-39.tiiny.site" target="_blank" rel="noopener noreferrer">Farmer Support</a></h3>
           <p>Important farming information and aiding government policies</p>
         </div>
         <div className="service-item">

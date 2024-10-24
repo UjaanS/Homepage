@@ -16,8 +16,8 @@ function Dropdown() {
 
       {isOpen && (
         <ul className="dropdown-menu">
-          <li><a href="#services">Mental Health Support</a></li>
-          <li><a href="#about">Farming Support</a></li>
+          <li><a href="https://character.ai/chat/Hpk0GozjACb3mtHeAaAMb0r9pcJGbzF317I_Ux_ALOA">Mental Health Support</a></li>
+          <li><a href="https://lime-nicholle-39.tiiny.site/">Farming Support</a></li>
           <li><a href="https://financial-support-five.vercel.app/">Financial Support</a></li>
         </ul>
       )}
