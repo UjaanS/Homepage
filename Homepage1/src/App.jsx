@@ -3,6 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import React from 'react';
 import './App.css';
+import Dropdown from './Components/Dropdown';
 
 function App() {
   return (
@@ -21,10 +22,9 @@ function Header() {
       <nav className="navbar">
         <h1 className="logo">Farmer Aid</h1> 
         <ul className="nav-links">
-          <li><a href="#hero">Home</a></li>
-          <li><a href="#services">Services</a></li>
+          <li><a href="#services"><Dropdown/></a></li>
+          <li><a href="https://homepage-ofdz.vercel.app/">Home</a></li>
           <li><a href="#about">About</a></li>
-          <li><a href="#contact">Contact</a></li>
         </ul>
       </nav>
     </header>
@@ -37,7 +37,6 @@ function HeroSection() {
       <div className="hero-content">
         <h2>Farmer Aid</h2>
         <p className="subheading">Every Farmer's Friend</p>
-        <a href="#services" className="cta">Explore Services</a>
       </div>
     </section>
   );
