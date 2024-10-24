@@ -24,7 +24,7 @@ function Header() {
         <ul className="nav-links">
           <li><a href="#services"><Dropdown/></a></li>
           <li><a href="https://homepage-ofdz.vercel.app/">Home</a></li>
-          <li><a href="#about">About</a></li>
+          <li><a href="https://aboutpage-delta.vercel.app/">About</a></li>
         </ul>
       </nav>
     </header>
